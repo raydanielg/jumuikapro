@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "web-next",
   "version": "0.1.0",
   "private": true,
@@ -25,4 +26,21 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   }
+=======
+    "$schema": "https://json.schemastore.org/package.json",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@tailwindcss/vite": "^4.0.0",
+        "axios": "^1.11.0",
+        "concurrently": "^9.0.1",
+        "laravel-vite-plugin": "^2.0.0",
+        "tailwindcss": "^4.0.0",
+        "vite": "^7.0.4"
+    }
+>>>>>>> 20d08c1d4487943c7f8d8d607c68cf079bbbc6bd
 }
