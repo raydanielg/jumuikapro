@@ -11,7 +11,7 @@ const testimonials = [
     author: "Wayne Barnes, Co-founder",
     company: "The Kruger Safari Co",
     location: "South Africa",
-    avatar: "/images/images/avatar.jpg"
+    avatar: "/images/avatar.jpg"
   },
   {
     quote: "Jumuika has revolutionized our workflow.",
@@ -19,7 +19,7 @@ const testimonials = [
     author: "Jane Doe, Director",
     company: "Serengeti Adventures",
     location: "Tanzania",
-    avatar: "/images/images/avatar.jpg"
+    avatar: "/images/avatar.jpg"
   },
   {
     quote: "The best investment we've made in our business.",
@@ -27,7 +27,7 @@ const testimonials = [
     author: "John Smith, Owner",
     company: "Maasai Mara Explorers",
     location: "Kenya",
-    avatar: "/images/images/avatar.jpg"
+    avatar: "/images/avatar.jpg"
   },
 ];
 
